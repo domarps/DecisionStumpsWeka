@@ -1,0 +1,66 @@
+firstName1=a = 1
+|  lastName1=o = 1: +
+|  lastName1=o = 0
+|  |  firstName3=y = 1: -
+|  |  firstName3=y = 0
+|  |  |  lastName1=n = 1: -
+|  |  |  lastName1=n = 0
+|  |  |  |  lastName2=m = 1: -
+|  |  |  |  lastName2=m = 0
+|  |  |  |  |  lastName2=l = 1
+|  |  |  |  |  |  firstName2=n = 1
+|  |  |  |  |  |  |  firstName3=i = 1: -
+|  |  |  |  |  |  |  firstName3=i = 0: +
+|  |  |  |  |  |  firstName2=n = 0: -
+|  |  |  |  |  lastName2=l = 0
+|  |  |  |  |  |  firstName0=m = 1: +
+|  |  |  |  |  |  firstName0=m = 0
+|  |  |  |  |  |  |  firstName3=k = 1: -
+|  |  |  |  |  |  |  firstName3=k = 0
+|  |  |  |  |  |  |  |  lastName1=a = 1: +
+|  |  |  |  |  |  |  |  lastName1=a = 0: +
+firstName1=a = 0
+|  firstName4=a = 1
+|  |  lastName4=e = 1
+|  |  |  firstName0=m = 1: +
+|  |  |  firstName0=m = 0
+|  |  |  |  firstName1=t = 1: +
+|  |  |  |  firstName1=t = 0: -
+|  |  lastName4=e = 0
+|  |  |  lastName0=z = 1: -
+|  |  |  lastName0=z = 0
+|  |  |  |  lastName2=z = 1: -
+|  |  |  |  lastName2=z = 0: +
+|  firstName4=a = 0
+|  |  firstName3=a = 1
+|  |  |  lastName0=s = 1
+|  |  |  |  firstName0=m = 1: +
+|  |  |  |  firstName0=m = 0: -
+|  |  |  lastName0=s = 0
+|  |  |  |  lastName5=s = 1: -
+|  |  |  |  lastName5=s = 0: +
+|  |  firstName3=a = 0
+|  |  |  firstName3=d = 1: +
+|  |  |  firstName3=d = 0
+|  |  |  |  firstName2=a = 1
+|  |  |  |  |  lastName3=t = 1: +
+|  |  |  |  |  lastName3=t = 0
+|  |  |  |  |  |  lastName0=c = 1: +
+|  |  |  |  |  |  lastName0=c = 0
+|  |  |  |  |  |  |  lastName0=m = 1: +
+|  |  |  |  |  |  |  lastName0=m = 0
+|  |  |  |  |  |  |  |  lastName0=k = 1: +
+|  |  |  |  |  |  |  |  lastName0=k = 0: -
+|  |  |  |  firstName2=a = 0
+|  |  |  |  |  lastName3=r = 1: +
+|  |  |  |  |  lastName3=r = 0
+|  |  |  |  |  |  firstName4=n = 1
+|  |  |  |  |  |  |  firstName0=g = 1: -
+|  |  |  |  |  |  |  firstName0=g = 0: +
+|  |  |  |  |  |  firstName4=n = 0
+|  |  |  |  |  |  |  firstName3=n = 1
+|  |  |  |  |  |  |  |  lastName0=r = 1: +
+|  |  |  |  |  |  |  |  lastName0=r = 0: -
+|  |  |  |  |  |  |  firstName3=n = 0
+|  |  |  |  |  |  |  |  firstName2=d = 1: +
+|  |  |  |  |  |  |  |  firstName2=d = 0: -

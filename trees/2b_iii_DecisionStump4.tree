@@ -1,0 +1,34 @@
+firstName1=a = 1
+|  lastName1=o = 1: +
+|  lastName1=o = 0
+|  |  firstName3=y = 1: -
+|  |  firstName3=y = 0
+|  |  |  lastName1=n = 1: -
+|  |  |  lastName1=n = 0
+|  |  |  |  lastName2=m = 1: -
+|  |  |  |  lastName2=m = 0: +
+firstName1=a = 0
+|  firstName4=a = 1
+|  |  lastName4=e = 1
+|  |  |  firstName0=m = 1: +
+|  |  |  firstName0=m = 0
+|  |  |  |  firstName1=t = 1: +
+|  |  |  |  firstName1=t = 0: -
+|  |  lastName4=e = 0
+|  |  |  lastName0=z = 1: -
+|  |  |  lastName0=z = 0
+|  |  |  |  lastName2=z = 1: -
+|  |  |  |  lastName2=z = 0: +
+|  firstName4=a = 0
+|  |  firstName3=a = 1
+|  |  |  lastName0=s = 1
+|  |  |  |  firstName0=m = 1: +
+|  |  |  |  firstName0=m = 0: -
+|  |  |  lastName0=s = 0
+|  |  |  |  lastName5=s = 1: -
+|  |  |  |  lastName5=s = 0: +
+|  |  firstName3=a = 0
+|  |  |  firstName3=d = 1: +
+|  |  |  firstName3=d = 0
+|  |  |  |  firstName2=a = 1: +
+|  |  |  |  firstName2=a = 0: -

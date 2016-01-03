@@ -1,0 +1,57 @@
+README - Homework2(Learning Decision Trees)
+
+Name: Pramod Srinivasan
+NetId: psrnvsn2
+Email: psrnvsn2@illinois.edu
+
+- The src directory contains all the code that was witten.
+- The data directory contains all the data which is generated during the experiments
+
+
+For execution ----- 
+
+First change the directory to the hw2 directory
+
+0. In order to generate features (2.a) , execute ./testFeatureGen.sh
+
+1. In order to execute SGD (2.b.i) ,execute ./test_SGD.sh
+
+2. In order to grow Decision Tree with max_depth = -1 (2.b.ii) , execute ./test_Id3.sh
+
+3. In order to grow Decision Tree with max_depth = 4 (2.b.iii) , execute ./test_Id3_DecStump4.sh
+
+4. In order to grow Tree with max_depth = 8 (2.b.iv), execute ./test_Id3_DecStump8.sh
+
+5. In order to execute Decision Stumps with SGD (2.b.v), execute ./test_DecStumpsSGD.sh
+
+
+
+                       ---------Description of shell scripts------------
+- testFeatureGen.sh: A shell script that runs the feature generator
+- test_SGD.sh:  A shell script that runs the will compile and execute the SGD implementation of the problem set
+- test_Id3.sh:  A shell script that grows the Decision Tree of infinite Depth
+- test_Id3_DecStump4.sh: A shell script that grows the Decision Stump of Depth = 4
+- test_Id3_DecStump8.sh: A shell script that grows the Decision Stump of Depth = 8
+- test_DecStumpsSGD.sh: A shell script that grows the Decision Stump of Depth = 4, feeding the features to the SGD algorithm
+
+
+
+			--------- src/cs446/weka/classifiers/trees/ ---------------------
+
+This contains the java sources. Here is a brief description of the contents of the  directory with the source files :
+   1. FeatureGenerator.java: A feature generator that generates features in the ARFF format(file stored in hw2/data/.
+   2. Id3.java : The baseline implementation given to develop Tree of maxDepth = -1
+   3. Id3Tester.java : The API for performing crossValidation,evaluation and result calculation for tree of infinite Depth.
+   4. Id3DecStump4Tester.java :  The API for performing crossValidation,evaluation and result calculation for tree of Depth = 4
+   5. Id3DecStump8Tester.java :  The API for performing crossValidation,evaluation and result calculation for tree of Depth = 8
+   6. SGDTester.java : The API for performing crossValidation,evaluation and result calculation for the SGD algorithm
+   7. SGD.java : The actual implementation of the SGD Algorithm 
+
+	                       ----------- data/  -------------------
+
+myBadges.arff : This contains the arff file generated from FeatureGenerator.java 
+ 
+- lib: This contains the weka.jar corresponding to Weka v3.6.3
+-  Makefile: A makefile to compile the java code
+- bin: This contains the classes generated from the compilation of the Java source codes
+

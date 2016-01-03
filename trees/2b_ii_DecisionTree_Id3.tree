@@ -1,0 +1,102 @@
+firstName1=a = 1
+|  lastName1=n = 1: -
+|  lastName1=n = 0
+|  |  firstName0=g = 1: -
+|  |  firstName0=g = 0
+|  |  |  lastName1=k = 1: -
+|  |  |  lastName1=k = 0
+|  |  |  |  lastName3=g = 1
+|  |  |  |  |  firstName0=s = 1: +
+|  |  |  |  |  firstName0=s = 0: -
+|  |  |  |  lastName3=g = 0
+|  |  |  |  |  lastName0=a = 1
+|  |  |  |  |  |  firstName2=r = 1: +
+|  |  |  |  |  |  firstName2=r = 0
+|  |  |  |  |  |  |  firstName0=d = 1: +
+|  |  |  |  |  |  |  firstName0=d = 0: -
+|  |  |  |  |  lastName0=a = 0
+|  |  |  |  |  |  firstName2=k = 1: -
+|  |  |  |  |  |  firstName2=k = 0
+|  |  |  |  |  |  |  firstName5=a = 1: -
+|  |  |  |  |  |  |  firstName5=a = 0
+|  |  |  |  |  |  |  |  lastName0=z = 1: -
+|  |  |  |  |  |  |  |  lastName0=z = 0
+|  |  |  |  |  |  |  |  |  lastName5=r = 1: -
+|  |  |  |  |  |  |  |  |  lastName5=r = 0
+|  |  |  |  |  |  |  |  |  |  lastName0=d = 1
+|  |  |  |  |  |  |  |  |  |  |  firstName2=l = 1: -
+|  |  |  |  |  |  |  |  |  |  |  firstName2=l = 0: +
+|  |  |  |  |  |  |  |  |  |  lastName0=d = 0
+|  |  |  |  |  |  |  |  |  |  |  lastName4=m = 1
+|  |  |  |  |  |  |  |  |  |  |  |  firstName0=d = 1: -
+|  |  |  |  |  |  |  |  |  |  |  |  firstName0=d = 0: +
+|  |  |  |  |  |  |  |  |  |  |  lastName4=m = 0: +
+firstName1=a = 0
+|  firstName4=a = 1
+|  |  lastName3=g = 1: -
+|  |  lastName3=g = 0
+|  |  |  firstName2=n = 1
+|  |  |  |  firstName3=n = 1: +
+|  |  |  |  firstName3=n = 0: -
+|  |  |  firstName2=n = 0
+|  |  |  |  lastName4=a = 1
+|  |  |  |  |  firstName0=r = 1: +
+|  |  |  |  |  firstName0=r = 0: -
+|  |  |  |  lastName4=a = 0
+|  |  |  |  |  lastName2=z = 1: -
+|  |  |  |  |  lastName2=z = 0: +
+|  firstName4=a = 0
+|  |  firstName3=a = 1
+|  |  |  firstName0=y = 1: -
+|  |  |  firstName0=y = 0
+|  |  |  |  lastName1=a = 1
+|  |  |  |  |  firstName0=v = 1: +
+|  |  |  |  |  firstName0=v = 0: -
+|  |  |  |  lastName1=a = 0
+|  |  |  |  |  firstName2=b = 1: -
+|  |  |  |  |  firstName2=b = 0: +
+|  |  firstName3=a = 0
+|  |  |  lastName6=n = 1
+|  |  |  |  firstName1=h = 1: -
+|  |  |  |  firstName1=h = 0
+|  |  |  |  |  lastName0=q = 1: -
+|  |  |  |  |  lastName0=q = 0: +
+|  |  |  lastName6=n = 0
+|  |  |  |  firstName4=n = 1
+|  |  |  |  |  firstName0=g = 1: -
+|  |  |  |  |  firstName0=g = 0: +
+|  |  |  |  firstName4=n = 0
+|  |  |  |  |  firstName0=a = 1
+|  |  |  |  |  |  lastName1=l = 1: -
+|  |  |  |  |  |  lastName1=l = 0
+|  |  |  |  |  |  |  firstName5=w = 1
+|  |  |  |  |  |  |  |  lastName1=o = 1: +
+|  |  |  |  |  |  |  |  lastName1=o = 0: -
+|  |  |  |  |  |  |  firstName5=w = 0: +
+|  |  |  |  |  firstName0=a = 0
+|  |  |  |  |  |  firstName4=l = 1
+|  |  |  |  |  |  |  firstName5=o = 1: -
+|  |  |  |  |  |  |  firstName5=o = 0: +
+|  |  |  |  |  |  firstName4=l = 0
+|  |  |  |  |  |  |  firstName2=d = 1: +
+|  |  |  |  |  |  |  firstName2=d = 0
+|  |  |  |  |  |  |  |  firstName2=a = 1
+|  |  |  |  |  |  |  |  |  lastName7=a = 1: -
+|  |  |  |  |  |  |  |  |  lastName7=a = 0
+|  |  |  |  |  |  |  |  |  |  firstName4=d = 1: -
+|  |  |  |  |  |  |  |  |  |  firstName4=d = 0
+|  |  |  |  |  |  |  |  |  |  |  firstName1=h = 1: -
+|  |  |  |  |  |  |  |  |  |  |  firstName1=h = 0: +
+|  |  |  |  |  |  |  |  firstName2=a = 0
+|  |  |  |  |  |  |  |  |  firstName2=n = 1
+|  |  |  |  |  |  |  |  |  |  firstName1=o = 1: +
+|  |  |  |  |  |  |  |  |  |  firstName1=o = 0: -
+|  |  |  |  |  |  |  |  |  firstName2=n = 0
+|  |  |  |  |  |  |  |  |  |  firstName3=n = 1
+|  |  |  |  |  |  |  |  |  |  |  firstName0=c = 1: +
+|  |  |  |  |  |  |  |  |  |  |  firstName0=c = 0
+|  |  |  |  |  |  |  |  |  |  |  |  lastName2=s = 1
+|  |  |  |  |  |  |  |  |  |  |  |  |  lastName0=c = 1: -
+|  |  |  |  |  |  |  |  |  |  |  |  |  lastName0=c = 0: +
+|  |  |  |  |  |  |  |  |  |  |  |  lastName2=s = 0: -
+|  |  |  |  |  |  |  |  |  |  firstName3=n = 0: -
